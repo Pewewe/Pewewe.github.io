@@ -7,7 +7,7 @@
             #site-name{background-color:lightgrey;  position: absolute;
    bottom: 350px;
    text-align: center;
-   width: 98%;
+   width: 58%;
  padding: 9, 0px, 0, 0; }
         </style>
     </head>
