@@ -4,16 +4,10 @@
         <meta charset="utf-8">
         <title></title>
         <style>
-            #site-name{background-color:lightgrey;  position: absolute;
-   bottom: 350px;
-   text-align: center;
-   width: 58%;
- padding: 9, 0px, 0, 0; }
+         
         </style>
     </head>
     <body>
-        <h1 id="site-name">Pewewe.github.io</h1><br>
-
-    <p>lol</p>
+       <h1>welcome to Pewewe's video game site!</h1>
     </body>
 </html>
