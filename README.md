@@ -14,6 +14,6 @@
     <h1>Minecraft</h1>
      <h5>Subjects</h5> 
 <a href = "RDSTN">Redstone</a>
-     <h2 id = "RDSTN">Redstone</h2>
+     <h2 id = "#RDSTN">Redstone</h2>
     </body>
 </html>
